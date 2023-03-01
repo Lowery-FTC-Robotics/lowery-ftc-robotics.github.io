@@ -37,7 +37,7 @@ function HeroHome() {
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
             <h1 className="h1 mb-4" data-aos="fade-up">
-              Welcom to the Lowery FTC Robotics Team!
+              Welcome to the Lowery FTC Robotics Team!
             </h1>
             <p className="text-xl text-gray-400 mb-8" data-aos="fade-up" data-aos-delay="200">
               We are a FTC team from the Lowery Freshmen center! Let us show you what we are all about...
